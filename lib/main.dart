@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Text('Hello World !!!', 
-      style: TextStyle(fontSize: 30.5, color: Colors.blueAccent[400]
+      style: TextStyle(fontSize: 30.5, color: Colors.greenAccent[400]
        )
       )
     );
